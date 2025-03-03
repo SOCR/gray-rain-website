@@ -32,8 +32,6 @@ const Hero = () => {
               <span className="relative">
                 <span className="relative z-10">de-identification</span>
                 <span className="absolute bottom-2 md:bottom-3 left-0 w-full h-3 bg-blue-100 -z-1"></span>
-              </span> and <br/>
-              augmentation services
             </h1>
             <p className="text-lg md:text-xl text-gray-600 mb-8 max-w-lg">
               GrayRain designs innovative tools, builds effective AI services and promotes large-scale data-driven health analytics.
