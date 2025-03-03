@@ -16,7 +16,7 @@ const services = [
     description: "Used to statistically obfuscate existent clinical data and balance the risk of patient de-identification",
     icon: <Shield className="h-10 w-10 text-blue-600" />,
     delay: 200,
-  },
+  }
   {/*
     id: 3,
     title: "Data Augmentation",
