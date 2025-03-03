@@ -21,7 +21,7 @@ const teamMembers: TeamMember[] = [
     name: "Simeone Marino",
     role: "Co-Founder & CTO",
     bio: "Dr. Marino is a specialist in healthcare data analytics with over 15 years of experience in the field. He co-founded GrayRain in 2022 at the University of Michigan.",
-    imageSrc: "public/Simeone-Screenshot.png&auto=format&fit=crop&w=800&q=80",
+    imageSrc: "https://github.com/SOCR/gray-rain/public/Simeone-Screenshot.png",
     linkedin: "https://www.linkedin.com/company/34612225/",
   },
   {
