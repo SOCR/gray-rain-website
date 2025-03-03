@@ -29,7 +29,7 @@ const teamMembers: TeamMember[] = [
     name: "Dr. Ivo Dinov",
     role: "C0-Founder",
     bio: "Dr. Dinov is a specialist in healthcare data analytics with over 15 years of experience in the field. He co-founded GrayRain in 2022 at the University of Michigan.",
-    imageSrc: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    imageSrc: "https://raw.githubusercontent.com/SOCR/gray-rain/refs/heads/main/public/Ivo-Screenshot.png",
     linkedin: "https://www.linkedin.com/company/34612225/",
   },
   {
@@ -37,7 +37,7 @@ const teamMembers: TeamMember[] = [
     name: "Dr. Johnny Liu",
     role: "CO-Founder",
     bio: "Dr. Liu co-founded GrayRain in 2022 at the University of Michigan.",
-    imageSrc: "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    imageSrc: "https://raw.githubusercontent.com/SOCR/gray-rain/refs/heads/main/public/Johnny-Screenshot.png",
     linkedin: "https://www.linkedin.com/company/34612225/",
   },
   {
@@ -45,7 +45,7 @@ const teamMembers: TeamMember[] = [
     name: "Dr. Ronak Shetty",
     role: "Co-Founder and CEO",
     bio: "Dr. Shetty co-founded GrayRain in 2022 at the University of Michigan.",
-    imageSrc: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    imageSrc: "https://raw.githubusercontent.com/SOCR/gray-rain/refs/heads/main/public/Ronak-Screenshot.png&auto=format&fit=crop&w=800&q=80",
     linkedin: "https://www.linkedin.com/company/34612225/",
   },
 ];
