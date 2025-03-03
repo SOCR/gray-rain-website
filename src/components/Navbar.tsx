@@ -170,7 +170,7 @@ const Navbar = () => {
           <div className="py-2">
             <div className="text-base font-medium text-gray-700 mb-2">Virtual Hospital</div>
             <a
-              href="https://rcompute.nursing.umich.edu/VH_24/"
+              href="https://rcompute.nursing.umich.edu/VH0216/"
               target="_blank"
               rel="noopener noreferrer"
               className="block py-2 pl-4 text-sm text-gray-600 hover:text-blue-600 transition-colors"
@@ -186,15 +186,6 @@ const Navbar = () => {
               onClick={() => setIsMenuOpen(false)}
             >
               Virtual Hospital - Posit
-            </a>
-            <a
-              href="https://grayrain.shinyapps.io/grayrain/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="block py-2 pl-4 text-sm text-gray-600 hover:text-blue-600 transition-colors"
-              onClick={() => setIsMenuOpen(false)}
-            >
-              Virtual Hospital - AWS
             </a>
           </div>
           <div className="pt-4">
