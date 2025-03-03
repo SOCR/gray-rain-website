@@ -94,7 +94,7 @@ const Navbar = () => {
                 >
                   <div className="py-1" role="none">
                     <a
-                      href="https://rcompute.nursing.umich.edu/VH_24/"
+                      href="https://rcompute.nursing.umich.edu/VH0216/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block px-4 py-2 text-sm text-gray-700 hover:bg-blue-50 hover:text-blue-600 transition-colors"
@@ -110,15 +110,6 @@ const Navbar = () => {
                       role="menuitem"
                     >
                       Virtual Hospital - Posit
-                    </a>
-                    <a
-                      href="https://grayrain.shinyapps.io/grayrain/"
-                      target="_blank"
-                      rel="noopener noreferrer" 
-                      className="block px-4 py-2 text-sm text-gray-700 hover:bg-blue-50 hover:text-blue-600 transition-colors"
-                      role="menuitem"
-                    >
-                      Virtual Hospital - AWS
                     </a>
                   </div>
                 </div>
