@@ -45,7 +45,7 @@ const teamMembers: TeamMember[] = [
     name: "Dr. Ronak Shetty",
     role: "Co-Founder and CEO",
     bio: "Dr. Shetty co-founded GrayRain in 2022 at the University of Michigan.",
-    imageSrc: "https://raw.githubusercontent.com/SOCR/gray-rain/refs/heads/main/public/Ronak-Screenshot.png&auto=format&fit=crop&w=800&q=80",
+    imageSrc: "https://raw.githubusercontent.com/SOCR/gray-rain/refs/heads/main/public/Ronak-Screenshot.png",
     linkedin: "https://www.linkedin.com/company/34612225/",
   },
 ];
