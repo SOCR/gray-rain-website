@@ -17,13 +17,16 @@ const services = [
     icon: <Shield className="h-10 w-10 text-blue-600" />,
     delay: 200,
   }
-  {/*
+  // Commented out service - add comma above if uncommented
+  /*
+  {
     id: 3,
     title: "Data Augmentation",
     description: "Used to augment and append existing data archives to increase the number of cases",
     icon: <BarChart4 className="h-10 w-10 text-blue-600" />,
     delay: 300,
-  */}
+  }
+  */
 ];
 
 const Services = () => {
