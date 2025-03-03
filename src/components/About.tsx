@@ -80,7 +80,7 @@ const About = () => {
               We want to cultivate an ecosystem that accelerates research and innovation to save lives.
             </p>
             <p className="text-lg text-gray-600 mb-8">
-              Since our founding in 2019 at the University of Michigan, we have hit the ground running.
+              Since our founding in 2021 at the University of Michigan, we have hit the ground running.
             </p>
             <a 
               href="#what-we-do" 
