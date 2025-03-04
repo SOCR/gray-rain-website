@@ -115,8 +115,8 @@ const Navbar = () => {
                 </div>
               )}
             </div>
+            {/* Fix: Removed the HTML comment from within JSX attributes */}
             <a 
-              {/* we need to fix this link below */}
               href="https://vh-authentication.auth.us-east-1.amazoncognito.com/login?client_id=56q33gpcadjk1lk5iv17htnplr&response_type=code&scope=email+openid+phone&redirect_uri=https%3A%2F%2Frcompute.nursing.umich.edu%2FVH_24%2F"
               target="_blank"
               rel="noopener noreferrer"
