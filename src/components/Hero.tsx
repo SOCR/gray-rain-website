@@ -28,9 +28,11 @@ const Hero = () => {
               Healthcare Data Solutions
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight text-gray-900 mb-6">
-              Data generation, <br/>
+              Data generation and <br/>
               <span className="relative">
-                <span className="relative z-10">de-identification</span>
+                <span className="relative z-10">de-identification <br/>
+              <span className="relative">
+                <span className="relative z-10"> services</span>
                 <span className="absolute bottom-2 md:bottom-3 left-0 w-full h-3 bg-blue-100 -z-1"></span>
               </span> {/* Fix: Added closing span tag here */}
             </h1>
